@@ -66,8 +66,14 @@
 </p>
 
 ## 💬 Quote
-> «توانا بود هر که دانا بود»
-"Powerful is the one who possesses knowledge."
+«توانا بود هر که دانا بود
+
+ز دانش دل پیر برنا بود»
+
+"Powerful is the one who possesses knowledge; 
+through knowledge, even an old heart becomes young."
+
+
 — Ferdowsi
 
 <p align="center">
