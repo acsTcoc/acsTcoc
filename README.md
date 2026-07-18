@@ -52,7 +52,7 @@
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
   </a>&nbsp;&nbsp;
   <a href="https://x.com/acstcoc">
-    <img src="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 16 16"><rect width="32" height="32" rx="1" ry="1"/><path fill="#fff" text-anchor="middle" dominant-baseline="middle" d="M12.6.75h2.454l-5.36 6.142L16 15.25h-4.937l-3.867-5.07-4.425 5.07H.316l5.733-6.57L0 .75h5.063l3.495 4.633L12.601.75Zm-.86 13.028h1.36L4.323 2.145H2.865z"/></svg> />
+    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/twitter-x.svg/></svg>" />
   </a>&nbsp;&nbsp;
   <a href="mailto:amirsweden46@gmail.com">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
