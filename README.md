@@ -48,17 +48,20 @@
 
 ## 🔗 Connect with Me
 <p align="center">
+  <a href="https://www.t.me/acsTcoc">
+    <img  src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/light/telegram.svg" />
+    </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/amir-choupani-037339234">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
+    <img  src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/light/linkedin.svg" />
   </a>&nbsp;&nbsp;
   <a href="https://x.com/acstcoc">
-    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/twitter-x.svg/></svg>" />
+    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/twitter-x.svg" />
   </a>&nbsp;&nbsp;
   <a href="mailto:amirsweden46@gmail.com">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
   </a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/amir.c.s?utm_source=qr&igsh=MWFtM3g1anozejl1cQ==">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
+    <img  src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/colored/instagram.svg" />
   </a>
 </p>
 
